@@ -4,7 +4,7 @@ title: home
 
 <h1>Welcome</h1>
 
-<p>The three languages I am studying:&nbsp;</p>
+<p>The three languages you can study here:</p>
 <ol>
 <li>French</li>
 <li>Spanish&nbsp;</li>
