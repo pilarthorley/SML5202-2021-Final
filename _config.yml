@@ -1,5 +1,5 @@
 # --- Change what appears in the banner and meta data of your pages --- #
-title: Uno! Deux! три!
+title: Uno! Deux! Three!
 description: Learn languages with me!
 
 # --- Specify the language of site --- #
@@ -18,8 +18,8 @@ github:
 # --- List of links in the navigation bar --- #
 # --- Change the words after the colons to change your navigation labels --- #
 navbar-links:
-  page1: Home
-  page2: French
-  page3: Spanish
-  page4: Russian
-  page5: Help
+  page1: Tenses 
+  page2: The Present Tense 
+  page3: The Past Tense 
+  page4: The Future Tense 
+  page5: Comprehensive review 
