@@ -4,7 +4,7 @@ title: home
 
 <h1>Welcome</h1>
 
-<p>The site to learn French and Spanish grammar with ease! :</p>
+<p>The site to learn French and Spanish grammar with ease! </p>
 
 <p>What do <strong>YOU</strong> want to study today?</p>
 
