@@ -7,6 +7,10 @@ title: home
 <p>The site to learn French and Spanish grammar with ease! </p>
 
 <p>What do <strong>YOU</strong> want to study today?</p>
+<audio controls>
+<source src="https://pilarthorley.github.io/SML5202-2021-Final/audio/welcome.mp3" type="audio/mpeg">
+Your browser does not support the audio element.
+</audio>
 
 <div class="row">
 <div class="col-sm-6">
