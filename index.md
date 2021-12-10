@@ -26,7 +26,7 @@ Your browser does not support the audio element.
 
 
 
-<script src="wiki.js"></script>
+
 <header class="searchForm-container">
 <img src="https://image.ibb.co/e6vOFQ/wikipedia.png" alt="Wikipedia Logo">
 <form class="searchForm">
@@ -37,3 +37,4 @@ Your browser does not support the audio element.
       </form>
 </header>
 <section class="searchResults"></section>
+<script src="wiki.js"></script>
