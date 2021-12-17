@@ -22,8 +22,7 @@ Your browser does not support the audio element.
 <p>The Imperfect Tense/ El imperfecto= This tense is used to describe habitual actions in the past. Example: I used to go swimming every week/ Solía ir a nadar todas las semanas.<p>
 <p><a href="https://pilarthorley.github.io/SML5202-2021-Final/page4.html">The Future Tense&nbsp;</a></p>
 <p>The Simple Future/ El Futuro Simple= This tense is used to talk about things that will or shall happen. Example: I will go to the beach/ Iré a la playa.</p>
-<p> The Informal Future/ El Futuro Informal: The informal future uses a combination of a conjugated form of 
-ir in the present indicative, the preposition a, and an infinitive. It is used to express events in the immediate future and for set plans. Example: I am going to prepare dinner/ Voy a preparar la cena. </p>
+<p>The Informal Future/ El Futuro Informal: The informal future uses a combination of a conjugated form of ir in the present indicative, the preposition a, and an infinitive. It is used to express events in the immediate future and for set plans. Example: I am going to prepare dinner/ Voy a preparar la cena. </p>
 </div>
 
 <div class="col-sm-6">
@@ -31,11 +30,7 @@ ir in the present indicative, the preposition a, and an infinitive. It is used t
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
 <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
 </div>
-        
 </div>
-
-<div class="clear:both;"></div>
-
 
 <header class="searchForm-container">
 <img src="https://image.ibb.co/e6vOFQ/wikipedia.png" alt="Wikipedia Logo">
