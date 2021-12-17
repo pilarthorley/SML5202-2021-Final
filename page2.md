@@ -1,6 +1,13 @@
 ---
-title: Page2
+title: El Presente/ Le Présent 
 ---
 
-<h1>Page 2</h1>
-<p>Some content</p>
+<div class="row">
+<div class="col-sm-6">
+  
+  </div>
+  
+  
+ <div class="col-sm-6">
+  
+</div>
