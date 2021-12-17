@@ -24,8 +24,8 @@ Your browser does not support the audio element.
 <p>The Simple Future/ El Futuro Simple= This tense is used to talk about things that will or shall happen. Example: I will go to the beach/ Iré a la playa.</p>
 <p> The Informal Future/ El Futuro Informal: The informal future uses a combination of a conjugated form of 
 ir in the present indicative, the preposition a, and an infinitive. It is used to express events in the immediate future and for set plans. Example: I am going to prepare dinner/ Voy a preparar la cena. </p>
-        
 </div>
+
 <div class="col-sm-6">
 <h3>French</h3>
 <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
@@ -34,17 +34,17 @@ ir in the present indicative, the preposition a, and an infinitive. It is used t
         
 </div>
 
-
+<div class="clear:both;"></div>
 
 
 <header class="searchForm-container">
 <img src="https://image.ibb.co/e6vOFQ/wikipedia.png" alt="Wikipedia Logo">
 <form class="searchForm">
-        <input type="search" class="searchForm-input">
-        <button type="submit" class="icon searchIcon">
-          <img src="https://image.ibb.co/cpG8zk/search.png" alt="Magnifying Glass Icon">
-        </button>
-      </form>
+<input type="search" class="searchForm-input">
+<button type="submit" class="icon searchIcon">
+<img src="https://image.ibb.co/cpG8zk/search.png" alt="Magnifying Glass Icon">
+</button>
+</form>
 </header>
 <section class="searchResults"></section>
 <script src="wiki.js"></script>
