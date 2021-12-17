@@ -67,5 +67,4 @@ title: El Presente/ Le Présent
   
   
  <div class="col-sm-6">
-   <p> French</p>
   </div>
