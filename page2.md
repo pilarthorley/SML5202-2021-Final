@@ -1,6 +1,9 @@
 ---
 title: El Presente/ Le Présent 
 ---
+<div class="jumbotron text-center">
+  <h1>El Presente/ Le Présent</h1>
+</div>
 
 <div class="row">
   
